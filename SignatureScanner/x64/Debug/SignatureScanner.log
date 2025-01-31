@@ -1,0 +1,5 @@
+﻿  Scanner.cpp
+C:\Users\Vegas\source\repos\SignatureScanner\Scanner\Scanner.cpp(118,2): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Vegas\source\repos\SignatureScanner\Scanner\Scanner.cpp(118,2): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\Vegas\source\repos\SignatureScanner\Scanner\Scanner.cpp(118,2): warning C4129: 'T': unrecognized character escape sequence
+  SignatureScanner.vcxproj -> C:\Users\Vegas\source\repos\SignatureScanner\x64\Debug\SignatureScanner.exe
