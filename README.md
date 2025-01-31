@@ -34,4 +34,5 @@ The program outputs the following information for each process:
 - **Unsigned executables**: Detected as unsigned and flagged.
 
 Example output:
+Skipping legitimate process: explorer.exe Skipping legitimate process: svchost.exe Unsigned executable found: wallpaper32.exe Signature verified for: wallpaper32.exe ...
 
